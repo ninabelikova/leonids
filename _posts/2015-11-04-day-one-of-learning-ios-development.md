@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day One of Learning iOs Development
+title: "Learn iOs Dev: Day 1 App 1 & 2"
 #date: 2015-11-10 20:04:00
 tags: [ios challenge]
 ---
@@ -21,9 +21,22 @@ After you inevitably *touch* the button (I know I would), you'd see
 
 There you are, my first ever app!
 
+And the second one is about learning the "hidden" property of the images.
+
+![cat vs dog pic 1]({{site.url}}/img/mes-apps/cat-vs-dog-1.png)
+
+After you click the "I love cats!" button, you get rewarded with a cute cat picture. The pictures are from freepik.com by the way.
+
+![cat vs dog pic 2]({{site.url}}/img/mes-apps/cat-vs-dog-2.png)
+
+This is for people who can't decide between cats and dogs. And lastly for dog people:
+
+![cat vs dog pic 3]({{site.url}}/img/mes-apps/cat-vs-dog-3.png)
+
 
 
 # Things absorbed:
 
 1. How to use UIButtons, IBActions and IBOutlets.
 2. How to produce cute logos in 30 seconds.
+3. How to hide stuff
