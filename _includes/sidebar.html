@@ -9,6 +9,7 @@
   <span class="author_bio mbm">{{ author.bio }}</span>
   <nav class="nav">
     <ul class="nav-list">
+      <a href="http://www.ninabelikova.com">home</a>
       {% for page in site.pages %} {% if page.title %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %}

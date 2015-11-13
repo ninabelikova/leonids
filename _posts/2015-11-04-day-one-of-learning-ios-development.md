@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Learn iOs Dev: Day 1 App 1 & 2"
-#date: 2015-11-10 20:04:00
 tags: [ios challenge]
+comments: true
 ---
 
 I've decided to log my progress in learning iOs development. Hopefully one day when I'll have published my first app, I can look back and really appreciate the efforts I'm putting in right now (patting myself on the back much?).
