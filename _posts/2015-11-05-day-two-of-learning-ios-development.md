@@ -2,6 +2,7 @@
 layout: post
 title: "Learn iOs Dev: Day 2 App 3 & 4"
 tags: [ios challenge]
+comments: true
 ---
 
 Obviously, I can't enough of building iOs apps. Once you get a taste of it, you WILL NEVER BE ABLE TO QUIT XCODE.
