@@ -7,7 +7,7 @@ comments: true
 
 I just finished studying lesson 27-37 of Lithuanian Basics so I decided to write down my own notes. If you happen to know this glorious language, please correct me if you see anything wrong.
 
-####General Rules For Past Simple
+#### General Rules For Past Simple
 
 For "o" words (verbs ending in "o" for the third person single), change the "o" into "ė". And then conjugate accordingly for other pronouns.
 
@@ -29,7 +29,7 @@ mes turėjome (we had)<br>
 jūs turėjote (plural you had)<br>
 
 
-####Past Perfect
+#### Past Perfect
 
 Just add a "pa" in front of the verb.
 
@@ -47,7 +47,7 @@ Or the *imperfective* and *perfective* in Russian.
 
 >я читал (I was reading) vs. я прочитал (I've read)
 
-####Reflective Verbs
+#### Reflective Verbs
 
 Reflective verbs are just verbs with "si" added to the end.
 
