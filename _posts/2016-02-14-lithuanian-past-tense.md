@@ -58,7 +58,7 @@ I'm washing a head
 
 Verb with "si"
 
-> **Aš plaunasi galvą** (literally I wash-self head) <br>
+> **Aš plaunusi galvą** (literally I wash-self head) <br>
 I'm washing my head
 
 Just like in French!
