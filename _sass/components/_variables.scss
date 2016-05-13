@@ -3,19 +3,44 @@
  */
 
 /*** Google font import ***/
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro:700,400,700italic,400italic);
+
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+/*** Fonts import ***/
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url(../fonts/HKGrotesk-Light.otf);
+}
+
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url(../fonts/HKGrotesk-LightItalic.otf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url(../fonts/HKGrotesk-Bold.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'HK Grotesk';
+  src: url(../fonts/HKGrotesk-BoldItalic.otf);
+  font-style: italic;
+  font-weight: bold;
+}
 
 /*** Custom variables ***/
 
 // fonts & typo
 $title-font-family:     'Libre Baskerville';
-$base-font-family:      'Source Sans Pro', 'Helvetica Neue', Helvetica;
+$base-font-family:      'HK Grotesk', 'Helvetica Neue', Helvetica, sans-serif;
 $heading-font-family:   $base-font-family;
-$monospace-font-family: 'Source Code Pro', Menlo, monospace;
+$monospace-font-family: Menlo, monospace;
 $base-font-size:        16px;
 $small-font-size:       $base-font-size * 0.875;
-$base-line-height:      1.5;
+$base-line-height:      1.6;
 $base-space-unit:       1.5em;
 
 // Header Styles

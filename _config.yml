@@ -5,10 +5,10 @@
 #
 title: Nina Belikova's Pacific Plains
 email:
-description: A blog in which I write about my iOs and web development misadventures.
+description: Nina's blog. I freely express my inner trollness here.
 #url: http://ninabelikova.github.io/leonids
-url: http://blog.ninabelikova.com
-#url: http://localhost:4000
+#url: https://blog.ninabelikova.com
+url: http://localhost:4000
 
 #
 ###################################
@@ -42,7 +42,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: 'UA-74369185-1'
+    analytics:
     verify:
     ad-client:
     ad-slot:
